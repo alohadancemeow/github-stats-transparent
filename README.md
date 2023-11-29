@@ -9,6 +9,11 @@ Actions.
 
 </a>
 
+> My stats here
+
+![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/overview.svg)
+![.](https://raw.githubusercontent.com/alohadancemeow/github-stats-transparent/output/generated/languages.svg)
+
 > NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
 
 ## ⚠️ Disclaimer
